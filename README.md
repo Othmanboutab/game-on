@@ -16,3 +16,4 @@ The objective of this project, send a valid formulaire.
 
 Rien à installer ici, il suffit d'ouvrir le fichier index.html.
 
+- Voir le [projet](https://othmanboutab.github.io/game-on)
